@@ -38,14 +38,6 @@ To run:
 Where /path/to/model is the location of the ARMv8 Foundation Model and
 /path/to/sandbox is the location of this code.
 
-## Toolchain
-
-The patch toolchain are available from:
-* binutils: https://github.com/zxombie/aarch64-freebsd-binutils
-* GCC: https://github.com/zxombie/aarch64-freebsd-gcc
-
-The setup script will automatically download and build them, there is no need
-to do it manually.
 
 ## External tools
 * The foundation model is available from: http://www.arm.com/fvp
